@@ -13,7 +13,7 @@ Welcome to the Full Stack DevOps Lab! This project demonstrates how to set up a 
 1. System wide Git Configuration
 ```bash
 git config --global user.name "Your Name"
-git config --global user.email "    
+git config --global user.email "Your Email"   
 ```
 2. Create a Project directory & Initialize Project
 ```bash
